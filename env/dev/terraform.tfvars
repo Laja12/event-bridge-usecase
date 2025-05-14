@@ -1,4 +1,4 @@
-aws_region = "us-west-2"
+aws_region = "us-east-1"
 #sqs_queue_names       = ["queue1", "queue2"]
 lambda_function_name  = "lambdaFunction_SQS"
 lambda_runtime        = "python3.13"
